@@ -1,5 +1,3 @@
-## whisked-tales
-
 
 ##### 👋 Greetings! I'm Rashmi, and I invite you to dive into my profile!
 ##### 🚀 From Software Testing Expertise to Data Wizardry, Python being my fuel for transforming code into data-driven discoveries
