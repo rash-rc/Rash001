@@ -2,7 +2,7 @@
 
 
 ##### 👋 Greetings! I'm Rashmi, and I invite you to dive into my profile!
-##### 🚀 Former Software Engineer in Test, now charting a path as a Data Scientist. Python is my fuel for transforming code into data-driven discoveries
+##### 🚀 Experienced Software Engineer in Test, now charting a path as a Data Scientist. Python is my fuel for transforming code into data-driven discoveries
 ##### 🔍 I'm passionate about unraveling the power of data to craft innovative solutions that make a meaningful impact, one byte at a time
 ##### 🌱Always growing, always learning. Ready to collaborate, tackle challenges, and fuel innovation with data.
 ##### 💬 Let's connect and embark on an extraordinary data-driven journey together!
