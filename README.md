@@ -4,11 +4,11 @@
 ##### 🔍 I'm passionate about unraveling the power of data to craft innovative solutions that make a meaningful impact, one byte at a time
 ##### 🌱Always growing, always learning. Ready to collaborate, tackle challenges, and fuel innovation with data.
 ##### 💬 Let's connect and embark on an extraordinary data-driven journey together!
-##### 📫 How to reach me: rchakravarthyrashmi@gmail.com | rrchakra@syr.edu
+##### 📫 How to reach me: rchakravarthyrashmi@gmail.com 
 
 
 <!--
-**Rash001/Rash001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rash-rc/rash-rc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
