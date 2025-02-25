@@ -1,10 +1,8 @@
 
-##### 👋 Greetings! I'm Rashmi, and I invite you to dive into my profile!
-##### 🚀 From Software Testing Expertise to Data Wizardry, Python being my fuel for transforming code into data-driven discoveries
-##### 🔍 I'm passionate about unraveling the power of data to craft innovative solutions that make a meaningful impact, one byte at a time
-##### 🌱Always growing, always learning. Ready to collaborate, tackle challenges, and fuel innovation with data.
-##### 💬 Let's connect and embark on an extraordinary data-driven journey together!
-##### 📫 How to reach me: rchakravarthyrashmi@gmail.com 
+##### 👋 Hi, I’m Rashmi
+##### 🔍 I'm passionate about unraveling the power of data to craft innovative solutions
+##### 💬 Let’s connect and make data work smarter!
+##### ✉️ You can reach me at rchakravarthyrashmi@gmail.com 
 
 
 <!--
